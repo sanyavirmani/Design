@@ -2,10 +2,10 @@
 <h3 align="center">A Data Analyst ^_^</h3>
 
 <h3 align="left">✨ About me:</h3><br>
-- 🔭 I’m interested in **Data Analytics and Business Intelligence**<br>
-- 🌱 I’m currently learning **Machine Learning**<br>
-- 📫 How to reach me **sanyavirmani.work@gmail.com**<br>
-- ⚡ Fun fact **I love paying attention to details**<br>
+- 🔭 I’m interested in Data Analytics and Business Intelligence.<br>
+- 🌱 I’m currently learning Machine Learning and Python.<br>
+- 📫 How to reach me sanyavirmani.work@gmail.com<br>
+- ⚡ Fun fact- I love paying attention to details.<br>
 
 <h3 align="left">💻 Skills:</h3>
 <p align="left">
