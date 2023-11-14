@@ -1,3 +1,5 @@
+<img src ="./banner.png" alt ="githubbanner" />
+
 <h1 align="center">Hi there👋, I'm Sanya Virmani</h1>
 <h3 align="center">A Data Analyst</h3>
 
