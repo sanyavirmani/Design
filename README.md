@@ -1,7 +1,7 @@
 <img src ="./banner.png" alt ="githubbanner" />
 
-<h1 align="center">Hi there👋, I'm Sanya Virmani</h1>
-<h3 align="center">A Data Analyst</h3>
+<h1 align="center">Hi there👋</h1>
+<h2 align="center">I am Sanya Virmani, a Data Analyst</h2>
 
 ## ✨ About me:
 🔭 I’m interested in Data Analytics and Business Intelligence<br>
