@@ -28,3 +28,5 @@
 
 ## 📊 GitHub Stats:
 <img align="left" width="47%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sanyavirmani&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" />
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanyavirmani&show_icons=true&locale=en&layout=compact" alt="sanyavirmani" /></p>
