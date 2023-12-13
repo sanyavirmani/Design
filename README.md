@@ -4,7 +4,7 @@
 
 ## ✨ About me:
 🔭 I’m interested in Data Analytics and Business Intelligence<br>
-🌱 I’m currently learning Machine Learning and Python<br>
+🌱 I’m currently learning Machine Learning<br>
 📫 How to reach me sanyavirmani.work@gmail.com<br>
 ⚡ Fun fact- I like paying attention to details<br>
 
