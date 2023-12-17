@@ -19,7 +19,7 @@
   <li>Business Analysis</li>
 </ul>
 
-## 👾 Connect with me:
+## 💬 Connect with me:
 <p align="left">
 <a href="http://www.linkedin.com/in/sanya-virmani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/sanyavirmani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Hackerrank" height="30" width="40" /></a>
